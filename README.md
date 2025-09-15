@@ -1,8 +1,8 @@
 # 📝 Filter List OOP
 
 This is a **Filter List project** built with [Next.js](https://nextjs.org) and [TypeScript](https://www.typescriptlang.org).  
-It demonstrates how to **filter items from a list** using **Object-Oriented Programming (OOP)**, maintain **Single Responsibility**, and write **unit tests** for your logic.  
-The UI is built with **Tailwind CSS** for fast styling.
+It demonstrates how to **filter items from a list** using **Object-Oriented Programming (OOP)**, maintain **Single Responsibility**, and write **unit tests** for logic.  
+The UI is built with **Tailwind CSS**.
 
 ---
 
