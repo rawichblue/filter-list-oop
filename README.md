@@ -18,9 +18,9 @@ The UI is built with **Tailwind CSS**.
 ---
 
 ## ✨ Install
-- 1. Install dependencies => npm install or yarn install
-- 2. Run development server => npm run dev
-- 3. Run tests => npm run test
+-  Install dependencies => npm install or yarn install
+-  Run development server => npm run dev
+-  Run tests => npm run test
 
 ---
 
